@@ -1,0 +1,12 @@
+node_modules/
+/.publish/
+/coverage/
+Changelog.md
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.log
+.eslintcache
